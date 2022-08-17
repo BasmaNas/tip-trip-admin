@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "562611925148",
+    "project_id": "tip-trip-ae8b7",
+    "storage_bucket": "tip-trip-ae8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562611925148:android:4613fdee02b981bc93bd59",
+        "android_client_info": {
+          "package_name": "com.travliano.tip_trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562611925148-e5mhtsisa9n5mrjgmi4s6ihlv04iucen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBYMucX8RIUzHAUxPGnm2yYudIMVKpe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562611925148-e5mhtsisa9n5mrjgmi4s6ihlv04iucen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562611925148:android:12842f8a0f2fd13593bd59",
+        "android_client_info": {
+          "package_name": "com.travliano.tip_trip_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562611925148-e5mhtsisa9n5mrjgmi4s6ihlv04iucen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBYMucX8RIUzHAUxPGnm2yYudIMVKpe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562611925148-e5mhtsisa9n5mrjgmi4s6ihlv04iucen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
